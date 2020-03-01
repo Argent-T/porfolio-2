@@ -6,10 +6,10 @@ const projectArray = {
         deployedURL: "https://salty-ravine-80275.herokuapp.com/",
         githubURL: "https://github.com/Sharonyel/project2",
         images: {
-            one: "./assets/images/nutrition_journal/njournal.JPG",
-            two: "./assets/images/nutrition_journal/njournal2.JPG",
-            three: "./assets/images/nutrition_journal/gif2.gif",
-            four: "./assets/images/nutrition_journal/gif3.gif",
+            one: "assets/images/nutrition_journal/njournal.JPG",
+            two: "assets/images/nutrition_journal/njournal2.JPG",
+            three: "assets/images/nutrition_journal/gif2.gif",
+            four: "assets/images/nutrition_journal/gif3.gif",
             },
         },
     portfolio2: {
@@ -19,10 +19,10 @@ const projectArray = {
         deployedURL: "https://argent-t.github.io/Drinky-Bird/",
         githubURL: "https://github.com/Argent-T/Drinky-Bird",
         images: {
-            one: "./assets/images/drinkybird/drinkybird.png",
-            two: "./assets/images/drinkybird/drinkybird2.png",
-            three: "./assets/images/drinkybird/drinkybird3.png",
-            four: "./assets/images/drinkybird/drinkybird4.png",
+            one: "assets/images/drinkybird/drinkybird.png",
+            two: "assets/images/drinkybird/drinkybird2.png",
+            three: "assets/images/drinkybird/drinkybird3.png",
+            four: "assets/images/drinkybird/drinkybird4.png",
         },
     },
     portfolio3: {
@@ -32,10 +32,10 @@ const projectArray = {
         deployedURL: "https://argent-t.github.io/Js-Quiz/",
         githubURL: "https://github.com/Argent-T/Js-Quiz",
         images: {
-            one: "./assets/images/jsquiz/jsquiz.png",
-            two: "./assets/images/jsquiz/jsquiz3.png",
-            three: "./assets/images/jsquiz/jsquiz4.png",
-            four: "./assets/images/jsquiz/jsquiz5.png",
+            one: "assets/images/jsquiz/jsquiz.png",
+            two: "assets/images/jsquiz/jsquiz3.png",
+            three: "assets/images/jsquiz/jsquiz4.png",
+            four: "assets/images/jsquiz/jsquiz5.png",
         },
     },
     portfolio4: {
@@ -52,29 +52,29 @@ const projectArray = {
         }
     },
     portfolio5: {
-        name: "Note Taker",
-        description: "This page allows users to write notes, which are stored into a json file. Each note is assigned an id and the notes stay even when the page is refreshed or left.",
-        development: "HTML5, CSS, JavaScript, Bootstarps, JSON, Node.JS, EXPRESS, Heroku, GitHub",
-        deployedURL: "https://dry-lake-48846.herokuapp.com/",
-        githubURL: "https://github.com/cmarshman/note_taker",
+        name: "",
+        description: "",
+        development: "",
+        deployedURL: "",
+        githubURL: "",
         images: {
-            one: "assets/images/note_taker/page_opening.png",
-            two: "assets/images/note_taker/notes_page.png",
-            three: "assets/images/note_taker/stored_in_json.png",
-            four: "assets/images/note_taker/delete_notes.png",
+            one: "",
+            two: "",
+            three: "",
+            four: "",
         }
     },
     portfolio6: {
         name: "Eat-A-Burger",
-        description: "This allows users to interact with a web-hosted database through JawsDB on Heroku. Users can order and eat their favorite burgers and keep a log of devoured burgers.",
-        development: "Handlebars, Node.js, Express, CSS, JavaScript, Bulma.io, JawsDB, MySQL, Heroku, Github",
-        deployedURL: "https://git.heroku.com/secret-plateau-38610.git",
-        githubURL: "https://github.com/cmarshman/burger",
+        description: "",
+        development: "",
+        deployedURL: "",
+        githubURL: "",
         images: {
-            one: "assets/images/burger/opening_page.png",
-            two: "assets/images/burger/burger_app.png",
-            three: "assets/images/burger/add_burger.png",
-            four: "assets/images/burger/eat_burger.png",
+            one: "",
+            two: "",
+            three: "",
+            four: "",
         }
     },
     portfolio7: {
